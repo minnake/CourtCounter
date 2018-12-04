@@ -1,6 +1,4 @@
-# Court Counter
-
-Score Keeper App 
+# Score Keeper App 
 
 Project Overview 
 
